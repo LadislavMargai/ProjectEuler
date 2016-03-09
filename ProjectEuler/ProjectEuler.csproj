@@ -71,6 +71,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Problem001.cs" />
+    <Compile Include="Problem003.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
